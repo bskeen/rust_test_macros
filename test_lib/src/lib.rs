@@ -36,6 +36,7 @@ describe_item_tests!(
     );
 );
 
+// The above should expand to something like this:
 // mod add_tests {
 //     use super::*;
 
